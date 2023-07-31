@@ -5,6 +5,7 @@ A learning queue of what I will learn next, periodically prioritized based on in
 1. [A Second Course in Probability](https://www.amazon.ca/dp/1009179918/?coliid=I3E1UXZJ64ISL3&colid=1ERZ61T8EYE1O&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it). View the previous ed [here](https://people.bu.edu/pekoz/A_Second_Course_in_Probability-Ross-Pekoz.pdf)
 2. Probability Theory by Jaynes.
 3. Statistical rethinking
+4. Robust statistics books (pick one from [these four](https://aakinshin.net/posts/robust-statistics-books/))
 
 # Courses 
 1. [Representation learning MSc course](https://github.com/HHU-MMBS/RepresentationLearning_SS2023)
